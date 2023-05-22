@@ -74,7 +74,7 @@ export default function Header(props) {
             marginRight="auto"
             color="#ffffff"
           >
-            Sport Betting Calculators
+            Betty Boo
           </Box>
 
           {/* <Hidden lgUp xlUp mdUp > */}
