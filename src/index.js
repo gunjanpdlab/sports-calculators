@@ -10,8 +10,7 @@ import rootReducer from "./reducers/betsReducer";
 import { CookiesProvider } from 'react-cookie';
 import ReactGA from 'react-ga';
 
-#ReactGA.initialize('UA-80493782-2');
-#ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 const persistConfig = {
 	key: 'root',
