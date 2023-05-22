@@ -59,11 +59,7 @@ export default function Header(props) {
       <AppBar position="fixed" className={classes.appBar}>
         <Toolbar>
           <div className={classes.logoContainer}>
-            <img
-              src={window.location.origin + "/logo3.png"}
-              alt="Top Bet Calculator"
-              className={classes.logo}
-            />
+          
           </div>
           <Box
             textAlign="center"
